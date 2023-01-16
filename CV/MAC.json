@@ -1,0 +1,214 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "David",
+      "surnames": "Fernandez Comesaña",
+      "title": "Desarrollador Front End | ReactJS",
+      "description": "Después de muchos años en el sector de la hostelería, he dado un giro de 180 grados para dedicarme a lo que más me gusta; a la programación y el desarrollo de aplicaciones multiplataforma. Entre mis mejores aptitudes destaco: la rapidez de adaptación, el esfuerzo por aprender y mejorar, la responsabilidad y, sobre todo; el afán por conseguir todo lo que me propongo.",
+      "avatar": {
+        "alt": "",
+        "link": ""
+      },
+      "location": {
+        "country": "España",
+        "region": "Galicia",
+        "municipality": "Vigo",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/davidFCDev"
+      },
+      {
+        "type": "other",
+        "URL": "https://mi-virtual-folio.netlify.app/"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Professional working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Curso avanzado ReactJS",
+        "startDate": "2022-11-01",
+        "finishDate": "2022-12-01",
+        "institution": {
+          "name": "OpenBootcamp",
+          "description": "Mejora de rendimiento, creación de Hooks, PWAs, notificaciones Push, testing con Jest, Docker, Firebase, Cypress.",
+          "URL": "https://campus.open-bootcamp.com/"
+        },
+        "linkedCompetences": [
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Curso avanzado Javascript",
+        "startDate": "2022-10-01",
+        "finishDate": "2022-11-01",
+        "institution": {
+          "name": "OpenBootcamp",
+          "description": "Módulos, gestión de eventos, persistencia de datos, Drag & Drop, uso de geolocalización...",
+          "URL": "https://campus.open-bootcamp.com/"
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Curso avanzado HTML / CSS",
+        "startDate": "2022-07-01",
+        "finishDate": "2022-08-01",
+        "institution": {
+          "name": "OpenBootcamp",
+          "description": "Formularios, tablas, multimedia y otros.\nBootstrap, diseño responsive, animaciones y transiciones, pre-procesadores CSS, Sass, Tailwind.",
+          "URL": "https://campus.open-bootcamp.com/"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "Sass",
+            "type": "technology"
+          },
+          {
+            "name": "Tailwind",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ciclo de Desarrollo de Aplicaciones Web",
+        "startDate": "2009-09-01",
+        "finishDate": "2011-06-01",
+        "institution": {
+          "name": "IES TEIS",
+          "description": "Sistemas informáticos, programación, entornos de desarrollo, desarrollo web en entorno servidor y entorno cliente, despliegue de aplicaciones..."
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/david-fernandez-comesaña"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Firebase",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Frontend Developer"
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
